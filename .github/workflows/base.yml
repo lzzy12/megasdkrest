@@ -1,6 +1,6 @@
 name: Build and Push Base image
 
-on :
+on:
   push:
     branches:
       - master
